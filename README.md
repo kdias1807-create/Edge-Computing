@@ -8,7 +8,6 @@
 
 **Integrantes do grupo:**
 
-| Nome | RM |
 |Antonio do Nascimento Ferreira de Sousa| |573706|
 |Kaio Nincao Maia Dias| |568834|
 |Matheus Martins Santos|570884|
