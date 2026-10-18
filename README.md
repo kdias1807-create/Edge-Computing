@@ -63,7 +63,6 @@ O firmware usa o formato de tópicos e payloads **Ultralight 2.0**, o mesmo espe
 | LDR | Luminosidade (entrada analógica ADC1) | GPIO 34 |
 | LED onboard | Atuador controlado por comando MQTT | GPIO 2 |
 
-> ⚠️ **Observação sobre o sensor:** o enunciado cita o **DHT11**, mas o código deste projeto (e a simulação no Wokwi) usa o **DHT22**, declarado como `DHT dht(PIN_DHT, DHT22);`. Os dois usam a mesma biblioteca e os mesmos pinos. Para usar um DHT11 físico, troque `DHT22` por `DHT11` no código.
 
 ## 5. Bibliotecas
 
